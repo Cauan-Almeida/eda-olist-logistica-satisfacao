@@ -98,8 +98,8 @@ Entre os pedidos com atraso crítico (> 28,5 dias de entrega):
 
 ### 1. Clonar o repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DA_PASTA>
+git clone https://github.com/Cauan-Almeida/eda-olist-logistica-satisfacao.git
+cd eda-olist-logistica-satisfacao
 ```
 
 ### 2. Criar e ativar o ambiente virtual (Python 3.10+)
