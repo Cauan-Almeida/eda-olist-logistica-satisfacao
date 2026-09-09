@@ -1,0 +1,11 @@
+# Versões recomendadas para compatibilidade universal (Python 3.9 a 3.14+)
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Versões exatas instaladas no ambiente local (.venv / Python 3.14):
+# pandas==3.0.5
+# matplotlib==3.11.1
+# seaborn==0.13.2
+# scipy==1.18.1
